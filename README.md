@@ -14,7 +14,7 @@ With hands-on training at **Emertxe, Bangalore**, and a deep curiosity for indus
 
 ## 💡 What I Do
 
-- 🌡️ **Heater Control System** – ESP32-based temperature-controlled heater simulation with LCD and BLE [GitHub Repo](https://github.com/your-username/heater-control-system)
+- 🌡️ **Heater Control System** – ESP32-based temperature-controlled heater simulation with LCD and BLE [GitHub Repo](https://github.com/abinjoseph-git/Heater-control-system.git)
 - 🤖 **Obstacle Avoidance & Human-Following Robot** – Arduino-based bot using IR and ultrasonic sensors
 - 📸 **AI-Based Anomaly & Pothole Detection** – Deep learning + image preprocessing
 - 📦 **Car Black Box** – Event logger using PIC microcontroller
